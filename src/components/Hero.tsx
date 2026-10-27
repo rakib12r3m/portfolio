@@ -57,6 +57,7 @@ export const Hero = () => {
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-gradient-to-r from-[#38BDF8] to-[#0284C7] text-slate-950 font-semibold text-xs sm:text-sm shadow-md shadow-[#38BDF8]/20 hover:shadow-[#38BDF8]/35 hover:-translate-y-0.5 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-[#38BDF8]"
               >
                 <span>Explore My Projects</span>
+                
                 <Icons.ArrowRight size={16} />
               </a>
               <a
